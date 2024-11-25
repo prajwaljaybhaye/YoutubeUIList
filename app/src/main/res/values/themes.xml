@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.KotlinSeries" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+            <!-- Base application theme -->
+
+                <!-- Customize your theme here -->
+                <item name="colorPrimary">#2F2A29</item>
+                <item name="colorPrimaryDark">#2F2A29</item>
+                <item name="colorAccent">#2F2A29</item>
+
+    </style>
+
+    <style name="Theme.Youtube" parent="Base.Theme.KotlinSeries" />
+</resources>
